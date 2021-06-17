@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+#name-heighlight{
+    color: rgb(243, 76, 160);
+}
+.section-one{
+    height: 630px;
+    background-image: url(image/header-bg.png);
+    background-size: cover;
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width p{
+    text-align: justify;
+}
+.half-width h1{
+    margin-top: 130px;
+}
+.half-width img{
+    width: 125%;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+}
+.section-two{
+    height: 630px;
+    background-image: url(image/biography-bg.png);
+    background-size: cover;
+}
+.section-three{
+    height: 400px;
+    background-image: url(image/latest-work-bg.png);
+    background-size: 80%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.section-three h1{
+    text-align: center;
+}
+.work-area{
+    width: 20%;
+    float: left;
+    margin-left: 10%;
+    position: center;
+    text-align: center;
+}
+.work-area img{
+    width: 100%;
+}
+.section-four{
+    height: 630px;
+    background-image: url(image/footer-bg.png);
+    background-size: 90%;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.name-design{
+    margin-top: 5%;
+}
+.name-design p{
+    margin-left: 450px;
+    text-align: justify;
+}
+.section-four h1, p{
+    text-align: center;
+}
+.section-four h4{
+    text-align: center;
+    color: gray;
+}
+.section-four h4, h2, h3{
+    text-align: center;
+}
+.bg-area{
+    width: 500px;
+    height: 120px;
+    background-color: hotpink;
+    border-radius: 10px;
+    margin-left: 420px;
+    padding-top: 5px;
+    margin-top: 3%;
+}
+.text-design{
+    color: white;
+}
+.footer-section{
+    text-align: center;
+}
